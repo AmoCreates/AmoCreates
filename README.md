@@ -1,6 +1,6 @@
 # ⚡ Anmol Maurya | Full-Stack Developer
 
-A driven Full-Stack Developer focused on engineering fast, reliable, and user-centric web ecosystems. My core expertise centers around building responsive user interfaces and real-time backend architectures. I love translating product ideas into production-ready code, writing clean systems, and optimizing performance across the entire web stack.
+A curious Full-Stack Developer focused on engineering fast, reliable, and user-lovable web UI/UX and ecosystems. My core is building responsive user interfaces and real-time backend architectures. I love translating product ideas into production-ready code, writing clean systems, and optimizing performance across the entire web stack.
 
 ---
 
@@ -11,6 +11,7 @@ A driven Full-Stack Developer focused on engineering fast, reliable, and user-ce
 *   **Deep Dives:** Optimizing complex backend scaling, Unix automation via WSL, and DevOps pipelines.
 *   **Core Toolkit:** Expert deployment strategies utilizing Vercel, Render, and advanced environment architectures.
 *   **Ask Me About:** MERN Stack development, real-time WebSocket communication, and building custom hooks.
+*   **DSA:**  Data Structure and Algorithms learner in Java, already solved 100+ DSA questions on leetcode.
 *   **Beyond the Code:** Speedcuber (sub-35s average 🧩) and calisthenics practitioner 🦾.
 
 ---
