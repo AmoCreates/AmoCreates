@@ -6,13 +6,13 @@ A curious Full-Stack Developer focused on engineering fast, reliable, and user-l
 
 ### 🚀 Quick Overview
 
-*   **Current Focus:** Engineering [RYDEX](https://github.com/anmolmaurya/rydex), a full-stack vehicle booking platform.
-*   **Collaborations:** Looking to sync up on open-source Next.js and TypeScript projects.
-*   **Deep Dives:** Optimizing complex backend scaling, Unix automation via WSL, and DevOps pipelines.
-*   **Core Toolkit:** Expert deployment strategies utilizing Vercel, Render, and advanced environment architectures.
-*   **Ask Me About:** MERN Stack development, real-time WebSocket communication, and building custom hooks.
-*   **DSA:**  Data Structure and Algorithms learner in Java, already solved 100+ DSA questions on leetcode.
-*   **Beyond the Code:** Speedcuber (sub-35s average 🧩) and calisthenics practitioner 🦾.
+* **Current Focus:** Engineering [RYDEX](https://github.com/anmolmaurya/rydex), a full-stack vehicle booking platform.
+* **Collaborations:** Looking to sync up on open-source Next.js and TypeScript projects.
+* **Deep Dives:** Optimizing complex backend scaling, Unix automation via WSL, and DevOps pipelines.
+* **Core Toolkit:** Expert deployment strategies utilizing Vercel, Render, and advanced environment architectures.
+* **Ask Me About:** MERN Stack development, real-time WebSocket communication, and building custom hooks.
+* **DSA:** Data Structure and Algorithms learner in Java, already solved 100+ DSA questions on leetcode.
+* **Beyond the Code:** Speedcuber (sub-35s average 🧩) and calisthenics practitioner 🦾.
 
 ---
 
