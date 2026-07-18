@@ -44,8 +44,8 @@ Let's discuss building something scalable or collaborate on interesting engineer
 Here is a live look at my latest coding metrics and performance:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?anmolmaurya=anmolmaurya&show_icons=true&theme=calm&rank_icon=github" alt="Anmol's Github Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?anmolmaurya=anmolmaurya&layout=compact&theme=calm" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anmolmaurya&show_icons=true&theme=calm&rank_icon=github" alt="Anmol's Github Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmolmaurya&layout=compact&theme=calm" alt="Top Languages" height="180px" />
 </p>
 
 ---
