@@ -6,7 +6,8 @@ A curious Full-Stack Developer focused on engineering fast, reliable, and user-l
 
 ### 🚀 Quick Overview
 
-* **Current Focus:** Engineering [RYDEX](https://github.com/anmolmaurya/rydex), a full-stack vehicle booking platform.
+* **Current Focus:** Learn advance topics without losing my fundamentals
+* **Major Project:** Engineering [RYDEX](https://github.com/anmolmaurya/rydex), a full-stack vehicle booking platform.
 * **Collaborations:** Looking to sync up on open-source Next.js and TypeScript projects.
 * **Deep Dives:** Optimizing complex backend scaling, Unix automation via WSL, and DevOps pipelines.
 * **Core Toolkit:** Expert deployment strategies utilizing Vercel, Render, and advanced environment architectures.
