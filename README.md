@@ -22,7 +22,7 @@ A curious Full-Stack Developer focused on engineering fast, reliable, and user-l
 Let's discuss building something scalable or collaborate on interesting engineering problems:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://amyfolio.vercel.app/)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1x71Xhq53Esio0zD2lqc5_KBm-TLsMqTd/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://docs.google.com/document/d/1HYPqngARpYd43FVYWA3rz7gmXwqLzhp6cHPa36BGUps/edit?usp=sharing)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anmolmaurya)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/AmoCreatesXLeetcode/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anmolmaurya.in@gmail.com)
